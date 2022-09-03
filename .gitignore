@@ -26,3 +26,4 @@ logs/*.c
 logs/**/debug.log
 
 secrets.yaml
+*.config
